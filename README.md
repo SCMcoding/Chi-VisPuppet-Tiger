@@ -1,4 +1,4 @@
-https://scmcoding.github.io/Chi-VisPuppet-Tiger/VisPuppet-Tiger.html
+PUPPET: https://scmcoding.github.io/Chi-VisPuppet-Tiger/VisPuppet-Tiger.html
 
 ## Tiger Puppet Controls
 
